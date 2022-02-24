@@ -85,6 +85,4 @@ _What is the encryption weakness in your XMAS-encrypted list of numbers?_
 
 Your puzzle answer was `59341885`.
 
-Both parts of this puzzle are complete! They provide two gold stars:<span style="color: transparent;  text-shadow: 0 0 0 blue; ">⭐</span>⭐
-
-
+Both parts of this puzzle are complete! They provide two gold stars: 💙💛
